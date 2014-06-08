@@ -7,3 +7,5 @@ add some text - test
 Добавяне във хранилището на малко инфо.
 
 adding some text and text1
+
+making a conflict
