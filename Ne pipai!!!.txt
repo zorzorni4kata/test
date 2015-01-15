@@ -1,4 +1,12 @@
+<<<<<<< .mine
+.mine
+=======
+>>>>>>> .r198
 strogo sekretno!
+<<<<<<< .mine
+oti?
+=======
+>>>>>>> .r198
 
 pip
 
@@ -6,8 +14,12 @@ strogo sekretno!
 oti?
 I'm a rebbel ! 
 
+<<<<<<< .mine
+strogo sekretno!
+=======
 strogo sekretno!
 
 dddd
+>>>>>>> .r198
 
 raaaaaah!!!
