@@ -1,10 +1,13 @@
-<<<<<<< .mine
 strogo sekretno!
-oti?=======
 
+pip
+
+strogo sekretno!
+oti?
 I'm a rebbel ! 
 
-strogo sekretno!>>>>>>> .r132
+strogo sekretno!
+
 dddd
 
 raaaaaah!!!
