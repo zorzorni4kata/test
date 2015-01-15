@@ -12,18 +12,34 @@ shlyokavica 1. Hello
 >>>>>>> .r63
 
 <<<<<<< .mine
+<<<<<<< .mine
+<<<<<<< .mine
+=======
+=======
+<<<<<<< .mine
 
 =======
+>>>>>>> .r163
 <<<<<<< .mine
 2. Teamwork and personal skills
 
+<<<<<<< .mine
+>>>>>>> .r151
+=======
 >>>>>>> .r147
+>>>>>>> .r163
 3. fjisdifa
+<<<<<<< .mine
+
+
+3. fjisdifa
+=======
 <<<<<<< .mine
 =======
 3. fjisdifa
 4. Who's your daddy?>>>>>>> .r55
 =======
+>>>>>>> .r151
 4. Who's your daddy?
 <<<<<<< .mine
 <<<<<<< .mine
@@ -48,6 +64,7 @@ adasda daas d>>>>>>> .r61
 7. ghdgf
 <<<<<<< .mine
 <<<<<<< .mine
+<<<<<<< .mine
 8. adasda daas d>>>>>>> .r64
 
 9. iamjonsnow=======
@@ -55,12 +72,25 @@ adasda daas d>>>>>>> .r61
 <<<<<<< .mine
 8. adasda daas d>>>>>>> .r64
 =======
+<<<<<<< .mine
+=======
+<<<<<<< .mine
+8. adasda daas d>>>>>>> .r64
+=======
+=======
 >>>>>>> .r151
+>>>>>>> .r163
 <<<<<<< .mine
 8. adasda daas d>>>>>>> .r63
 =======
+>>>>>>> .r151
 8. adasda daas d
 9. sdsasdsa
+<<<<<<< .mine
+10. став
+11. PESHO I GOSHO>>>>>>> .r72
+
+12. Almost done !=======
 10. става
 11. PESHO I GOSHOno commit for you!>>>>>>> .r78
 
@@ -69,4 +99,8 @@ adasda daas d>>>>>>> .r61
 13.wqerj>>>>>>> .r147
 =======
 13.wqerj>>>>>>> .r139
+<<<<<<< .mine
 >>>>>>> .r151
+=======
+>>>>>>> .r151
+>>>>>>> .r163
