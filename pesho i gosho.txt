@@ -1,3 +1,5 @@
+<<<<<<< .mine
+hello=======
 pesho
 go6o
 Angel
@@ -7,3 +9,4 @@ Angel
 
 ASL ?
 
+>>>>>>> .r135
