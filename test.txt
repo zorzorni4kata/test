@@ -23,10 +23,16 @@ shlyokavica 1. Hello
 4. Who's your daddy?
 <<<<<<< .mine
 <<<<<<< .mine
+5.Ich bin!
+Don't worry be happy!!!=======
+=======
+<<<<<<< .mine
+<<<<<<< .mine
 5.Ich bin!>>>>>>> .r57
 =======
 5.Ich bin!
 =======
+>>>>>>> .r139
 5. Ich bin!
 >>>>>>> .r63
 6. good morning
@@ -37,6 +43,9 @@ adasda daas d>>>>>>> .r61
 =======
 7. ghdgf
 <<<<<<< .mine
+8. adasda daas d>>>>>>> .r64
+=======
+<<<<<<< .mine
 8. adasda daas d>>>>>>> .r63
 =======
 8. adasda daas d
@@ -45,4 +54,4 @@ adasda daas d>>>>>>> .r61
 11. PESHO I GOSHOno commit for you!>>>>>>> .r78
 
 12 .asdadsadsad
-13.wqerj
+13.wqerj>>>>>>> .r139
