@@ -12,8 +12,12 @@ shlyokavica 1. Hello
 >>>>>>> .r63
 
 <<<<<<< .mine
+
+=======
+<<<<<<< .mine
 2. Teamwork and personal skills
 
+>>>>>>> .r147
 3. fjisdifa
 <<<<<<< .mine
 =======
@@ -43,8 +47,15 @@ adasda daas d>>>>>>> .r61
 =======
 7. ghdgf
 <<<<<<< .mine
+<<<<<<< .mine
+8. adasda daas d>>>>>>> .r64
+
+9. iamjonsnow=======
+=======
+<<<<<<< .mine
 8. adasda daas d>>>>>>> .r64
 =======
+>>>>>>> .r151
 <<<<<<< .mine
 8. adasda daas d>>>>>>> .r63
 =======
@@ -54,4 +65,8 @@ adasda daas d>>>>>>> .r61
 11. PESHO I GOSHOno commit for you!>>>>>>> .r78
 
 12 .asdadsadsad
+<<<<<<< .mine
+13.wqerj>>>>>>> .r147
+=======
 13.wqerj>>>>>>> .r139
+>>>>>>> .r151
