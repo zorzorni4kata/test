@@ -1,8 +1,9 @@
 sfsdfsdfsdd
+<<<<<<< .mine
+1. First Commit
+2.dadaadaad=======
 1. First Commit
 2. Добър Ден
 3. OK
 4. chao chao
-5. Hello alls
-6.Nindjii
-7. Golem Shef
+5.NO
