@@ -1,4 +1,8 @@
+<<<<<<< .mine
+strogo sekretno!
+oti?=======
 
 I'm a rebbel ! 
 
-strogo sekretno!
+strogo sekretno!>>>>>>> .r132
+dddd
