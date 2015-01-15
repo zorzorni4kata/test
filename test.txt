@@ -1,14 +1,45 @@
+<<<<<<< .mine
+<<<<<<< .mine
+1. Hello
+=======
+dgdgsdg1. Hello
+=======
 shlyokavica 1. Hello
+>>>>>>> .r78
 
 2. Teamwork and personal skills
 
+>>>>>>> .r63
+
+<<<<<<< .mine
+2. Teamwork and personal skills
 
 3. fjisdifa
+<<<<<<< .mine
+=======
+3. fjisdifa
+4. Who's your daddy?>>>>>>> .r55
+=======
 4. Who's your daddy?
+<<<<<<< .mine
+<<<<<<< .mine
+5.Ich bin!>>>>>>> .r57
+=======
+5.Ich bin!
+=======
 5. Ich bin!
+>>>>>>> .r63
 6. good morning
+<<<<<<< .mine
+
+ghdgf
+adasda daas d>>>>>>> .r61
+=======
 7. ghdgf
+<<<<<<< .mine
+8. adasda daas d>>>>>>> .r63
+=======
 8. adasda daas d
 9. sdsasdsa
 10. става
-11. PESHO I GOSHOno commit for you!
+11. PESHO I GOSHOno commit for you!>>>>>>> .r78
