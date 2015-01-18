@@ -1,2 +1,5 @@
 fatman
 vatman
+hatman
+ratman
+catman
