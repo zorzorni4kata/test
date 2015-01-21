@@ -1,1 +1,18 @@
 I wish I knew what was that
+
+
+It seems it is resolving conflicts in a file for example.
+
+
+Imagine that there is a file, which contains: "a". 
+I and you downloed onmine and your achine.
+Imagine that I add an "b" in a file.
+Imagine that you add an "c" in a file.
+Then I commit.
+Then you whan to commit. 
+You will see a conflict.
+
+Your file has "ac".
+The file on the server has "ab".
+
+b and c make a conflict. If you merge "b" and "c" the result is resolving the conflict.
