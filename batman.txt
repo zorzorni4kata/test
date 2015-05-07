@@ -7,15 +7,3 @@ carman
 washman
 nightman
 gatman
-<<<<<<< HEAD
-you are a man
-=======
-you are a man
-we are legion
-we are anomalus
-
-
-NANANANNANA BATMAN!
-
-I'm BATMAN
->>>>>>> 1e81677f90684e2b21e77e447beb0670247706f0
