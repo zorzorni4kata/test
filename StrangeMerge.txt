@@ -17,5 +17,5 @@ The file on the server has "ab".
 
 b and c make a conflict. If you merge "b" and "c" the result is resolving the conflict.
 
-Nothing is true. Everything is permitte. 
+Nothing is true. Everything is permitted. 
 Exactly about the theme.
