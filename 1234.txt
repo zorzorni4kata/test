@@ -1,4 +1,5 @@
-me too
+00.Initialize
+01.me too
 02.Sup brah, I edited ur file.
-This is second editing file for me;
-Add new line
+03.This is second editing file for me;
+04.Add new line
