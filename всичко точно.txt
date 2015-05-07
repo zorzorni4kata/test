@@ -1,1 +1,2 @@
 opa
+6 6 proba
