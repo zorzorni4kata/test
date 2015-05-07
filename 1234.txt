@@ -1,7 +1,5 @@
-<<<<<<< .mine
-asdasds
-Sup brah, I edited ur file.
-Second edit
-=======
-ksdjfksdfijsdf
-pffffff>>>>>>> .r403
+01.asdasds
+02.Sup brah, I edited ur file.
+03.Second edit
+04.ksdjfksdfijsdf
+05.
