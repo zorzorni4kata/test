@@ -1,2 +1,7 @@
+<<<<<<< .mine
+asdasds
+Sup brah, I edited ur file.
+Second edit
+=======
 ksdjfksdfijsdf
-pffffff
+pffffff>>>>>>> .r403
