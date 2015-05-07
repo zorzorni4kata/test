@@ -20,7 +20,15 @@ try try try try try
 
 NANANANNANA BATMAN!
 
+<<<<<<< .mine
+I'm BATMANkdfjbzkldfbjldfk=======
 I'm BATMAN
 
 
+<<<<<<< .mine
+alalalalala>>>>>>> .r428
+=======
 alalalalala
+>>>>>>> .r442
+
+git sucks
