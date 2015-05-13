@@ -1,7 +1,7 @@
-Linux is the best! ;-) m,da
+1.Linux is the best! ;-) m,da
 And Java is the best :-D
 Linux firewall is very strong;
 And
-Apple is the new Microsoft.
+2.Apple is the new Microsoft.
 
-This is new commit.
+3.This is new commit.
